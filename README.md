@@ -36,10 +36,14 @@ cards, clinical calm, and a single indigo accent.
 
 ## Installation
 
-**From the community directory:** Settings → Appearance → Themes → Manage, search for
-**Borozdov Vial**, then **Install and use**.
+**From the community directory, as a variant:** this theme ships inside **Borozdov
+Utility**. Install Borozdov Utility under Settings → Appearance → Themes → Manage, then
+the [Style Settings](https://github.com/mgmeyers/obsidian-style-settings) plugin, and
+choose **Vial** under Style Settings → Borozdov Utility → Variant. The variant brings this
+theme's palette, type and corners; its own layout, and its embedded font if it has one,
+come with the full theme below.
 
-**By hand:** download `manifest.json` and `theme.css` from the
+**The full theme, by hand:** download `manifest.json` and `theme.css` from the
 [latest release](https://github.com/borozdov-obsidian-themes/vial/releases/latest) into
 `<vault>/.obsidian/themes/Borozdov Vial/`, then choose Borozdov Vial under
 Settings → Appearance → Themes.
@@ -53,5 +57,4 @@ MIT — see [LICENSE](LICENSE).
 **По-русски.** Тема из коллекции Borozdov. Два лика: светлый «Dosage» — рецептурный
 фиолетовый на фарфоре, и тёмный «Formulary» — тот же фиолетовый, зажжённый на странице
 цвета чернил. Карточки на тонкой линии, клиническое спокойствие и единственный индиговый
-акцент. Шрифты не встроены. Устанавливается из каталога: Настройки → Оформление → Темы →
-Настроить → Borozdov Vial → Установить и применить.
+акцент. Шрифты не встроены. В каталоге тема живёт вариантом Borozdov Utility: установите Borozdov Utility и плагин Style Settings, затем выберите Vial в Style Settings → Borozdov Utility → Variant. Целиком, со своей вёрсткой, тема ставится вручную из последнего релиза репозитория.
